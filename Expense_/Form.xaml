@@ -1,0 +1,36 @@
+﻿<Page x:Class="Expense_.Form"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Expense_"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Form">
+
+    <Grid Background="Wheat">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="96*"/>
+            <RowDefinition Height="91*"/>
+            <RowDefinition Height="85*"/>
+            <RowDefinition Height="95*"/>
+            <RowDefinition Height="83*"/>
+        </Grid.RowDefinitions>
+        <Label Content="First Name :" FontSize="40" HorizontalAlignment="Left" Margin="159,0,0,0" VerticalAlignment="Center"/>
+        <Label Content="Last Name :" FontSize="40" HorizontalAlignment="Left" Margin="159,0,0,0" VerticalAlignment="Center" Grid.Row="1"/>
+        <Label Content="Email :" FontSize="40" HorizontalAlignment="Left" Margin="159,0,0,0" VerticalAlignment="Top" Grid.Row="2"/>
+        <Label Content="Phone :" FontSize="40" HorizontalAlignment="Left" Margin="159,10,0,0" VerticalAlignment="Top" Grid.Row="3"/>
+        <Label Content="Address :" FontSize="40" HorizontalAlignment="Left" Margin="159,0,0,0" VerticalAlignment="Center" Grid.Row="4"/>
+        <TextBox x:Name="FN_textbox" BorderThickness="3" Grid.Column="1" HorizontalAlignment="Left" Margin="37,30,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="243" Height="50" TextChanged="FN_textbox_TextChanged"/>
+        <TextBox x:Name="LN_textbox" BorderThickness="3" Grid.Column="1" HorizontalAlignment="Left" Margin="37,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="243" Height="50" Grid.Row="1"/>
+        <TextBox x:Name="Email_textbox" BorderThickness="3" Grid.Column="1" HorizontalAlignment="Left" Margin="37,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="243" Height="50" Grid.Row="2"/>
+        <TextBox x:Name="Phone_textbox" BorderThickness="3" Grid.Column="1" HorizontalAlignment="Left" Margin="37,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="243" Height="50" Grid.Row="3"/>
+        <TextBox x:Name="Address_textbox" BorderThickness="3" Grid.Column="1" HorizontalAlignment="Left" Margin="37,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="243" Height="50" Grid.Row="4"/>
+    </Grid>
+</Page>

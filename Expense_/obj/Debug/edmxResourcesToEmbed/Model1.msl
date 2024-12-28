@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WPF_ProjectModelStoreContainer" CdmEntityContainer="WPF_ProjectEntities1">
+    <EntitySetMapping Name="People">
+      <EntityTypeMapping TypeName="WPF_ProjectModel.Person">
+        <MappingFragment StoreEntitySet="Person">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="names" ColumnName="names" />
+          <ScalarProperty Name="expensetype" ColumnName="expensetype" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

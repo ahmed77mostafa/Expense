@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\expense_\\home_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|solutionrelative:expense_\\home_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\expense_\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|solutionrelative:expense_\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\expense_\\reportxaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|solutionrelative:expense_\\reportxaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|f:\\school\\software\\desktop\\wpf programs\\expense_\\expense_\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|solutionrelative:expense_\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\expense_\\form.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|solutionrelative:expense_\\form.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\expense_\\reportxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|solutionrelative:expense_\\reportxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\expense_\\form.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|solutionrelative:expense_\\form.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\expense_\\home_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA2063-5F80-4FF6-AFA0-08EC747F0012}|Expense_\\Expense_.csproj|solutionrelative:expense_\\home_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form.xaml",
+              "DocumentMoniker": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Form.xaml",
+              "RelativeDocumentMoniker": "Expense_\\Form.xaml",
+              "ToolTip": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Form.xaml",
+              "RelativeToolTip": "Expense_\\Form.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T19:26:03.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home_Page.xaml",
+              "DocumentMoniker": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Home_Page.xaml",
+              "RelativeDocumentMoniker": "Expense_\\Home_Page.xaml",
+              "ToolTip": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Home_Page.xaml",
+              "RelativeToolTip": "Expense_\\Home_Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T19:26:04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Expense_\\MainWindow.xaml",
+              "ToolTip": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\MainWindow.xaml",
+              "RelativeToolTip": "Expense_\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T19:26:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Expense_\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Expense_\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:26:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reportxaml.xaml.cs",
+              "DocumentMoniker": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Reportxaml.xaml.cs",
+              "RelativeDocumentMoniker": "Expense_\\Reportxaml.xaml.cs",
+              "ToolTip": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Reportxaml.xaml.cs",
+              "RelativeToolTip": "Expense_\\Reportxaml.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAASwCIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:26:03.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reportxaml.xaml",
+              "DocumentMoniker": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Reportxaml.xaml",
+              "RelativeDocumentMoniker": "Expense_\\Reportxaml.xaml",
+              "ToolTip": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Reportxaml.xaml",
+              "RelativeToolTip": "Expense_\\Reportxaml.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T19:26:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form.xaml.cs",
+              "DocumentMoniker": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Form.xaml.cs",
+              "RelativeDocumentMoniker": "Expense_\\Form.xaml.cs",
+              "ToolTip": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Form.xaml.cs",
+              "RelativeToolTip": "Expense_\\Form.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC8AAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMhSURBVEhL7ZXfS1NhGMe/2zk7O2fTuS2nm3PT1E22nGB24Y2iIFFEXXWRVNCFN/4FXXQlXXjdRTdCIARR94KSYGoKocgQreWUaTONmuNszOl\u002BnvW\u002Bp2N10FAh7/zAw3t434fn\u002B/54zvNo8BdPRyN12kKuj2eZoQabAJbRPGEZ7aubbY5NxeXMaJVR5rKFR02FHkY9g8lQAsHN1PUd8eDO2NLXZsXlzGhwf\u002ByW8g2/01jVVm/qspXpHr0PJ9Fo40WfQz/fWJGbzG0tfhwfH1c8AZZlYbFY4PV6pa6urvTBwUFwYmIiPTg4KCkuMho8ePtc\u002BUaFQVvusvKeahPXsbS1B69dQEe94Ue7vfCFTazHZmdnFU\u002BgUCiAYRg4HI5Ce3t7jOf5F4IghPf395M9PT0FxQ0MWh92kjFLTeAYra2ctZoNbH0slQcRwpUaweip5JxmQePRarWeqqoq2TiO8\u002BTzeU8ul2sip3EZDAaJCIpEKOl0OrPT09MlKqB65NHFnbpMJt\u002BXzBSH3szH0NFoQqenHE02DgZdSd71IaFQCHNzc1hdXYXZbEZ3dzdMJtMzo9H4mlzdSktLyx71Uz1y6FsGUTGLVFbC3Ws29Por0FCpg54poVgsKl5/KJV\u002BzSeTSUxNTSEajd5Lp9P92Wz2quKiFvBZAO8lCc2VQJtbIBnFgGfpSSU52HHQeXqyRCKB9fX1ymAwaJuZmTEqy2qBjPgJuVgERTEKM5cHz0jQkAAlSZUYMmVlZXC5XPD7/fD5fDSbIEkSs729zYbD4d9xGWWUCfh85njse2A/leytd9dCz3HKylFoBlERu90Ot9stG70qURTXiC2srKysUT/1G5CHI8fExsYGSF4fe\u002B\u002BH0OA0KD3BoVmtVpDsUiWDSoBCF6n9687PyhGB/82FwIlcCJzIuQuoS0UgYCa1PaDT6XppCU6lUojH49jd3T2VRSIRWvTWSJ9YWF5elkuFqh/09/fXkj/4NhF4XF1dLf/2Z4FuhnS0d5lM5uXIyMgknVMJDAwMkIKNVlIqbtDdk\u002Boo22khXY1uapV0vg/Dw8OflenzBPgJhg9WjNZ\u002BCisAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-17T19:26:03.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home_Page.xaml.cs",
+              "DocumentMoniker": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Home_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Expense_\\Home_Page.xaml.cs",
+              "ToolTip": "F:\\School\\Software\\Desktop\\WPF Programs\\Expense_\\Expense_\\Home_Page.xaml.cs",
+              "RelativeToolTip": "Expense_\\Home_Page.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawB4AAAAvAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMhSURBVEhL7ZXfS1NhGMe/2zk7O2fTuS2nm3PT1E22nGB24Y2iIFFEXXWRVNCFN/4FXXQlXXjdRTdCIARR94KSYGoKocgQreWUaTONmuNszOl\u002BnvW\u002Bp2N10FAh7/zAw3t434fn\u002B/54zvNo8BdPRyN12kKuj2eZoQabAJbRPGEZ7aubbY5NxeXMaJVR5rKFR02FHkY9g8lQAsHN1PUd8eDO2NLXZsXlzGhwf\u002ByW8g2/01jVVm/qspXpHr0PJ9Fo40WfQz/fWJGbzG0tfhwfH1c8AZZlYbFY4PV6pa6urvTBwUFwYmIiPTg4KCkuMho8ePtc\u002BUaFQVvusvKeahPXsbS1B69dQEe94Ue7vfCFTazHZmdnFU\u002BgUCiAYRg4HI5Ce3t7jOf5F4IghPf395M9PT0FxQ0MWh92kjFLTeAYra2ctZoNbH0slQcRwpUaweip5JxmQePRarWeqqoq2TiO8\u002BTzeU8ul2sip3EZDAaJCIpEKOl0OrPT09MlKqB65NHFnbpMJt\u002BXzBSH3szH0NFoQqenHE02DgZdSd71IaFQCHNzc1hdXYXZbEZ3dzdMJtMzo9H4mlzdSktLyx71Uz1y6FsGUTGLVFbC3Ws29Por0FCpg54poVgsKl5/KJV\u002BzSeTSUxNTSEajd5Lp9P92Wz2quKiFvBZAO8lCc2VQJtbIBnFgGfpSSU52HHQeXqyRCKB9fX1ymAwaJuZmTEqy2qBjPgJuVgERTEKM5cHz0jQkAAlSZUYMmVlZXC5XPD7/fD5fDSbIEkSs729zYbD4d9xGWWUCfh85njse2A/leytd9dCz3HKylFoBlERu90Ot9stG70qURTXiC2srKysUT/1G5CHI8fExsYGSF4fe\u002B\u002BH0OA0KD3BoVmtVpDsUiWDSoBCF6n9687PyhGB/82FwIlcCJzIuQuoS0UgYCa1PaDT6XppCU6lUojH49jd3T2VRSIRWvTWSJ9YWF5elkuFqh/09/fXkj/4NhF4XF1dLf/2Z4FuhnS0d5lM5uXIyMgknVMJDAwMkIKNVlIqbtDdk\u002Boo22khXY1uapV0vg/Dw8OflenzBPgJhg9WjNZ\u002BCisAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-17T19:26:03.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
